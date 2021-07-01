@@ -40,7 +40,7 @@ Javascript, CSS, mongodb, React
 
 To run test, run the following commands:
 
-https://agile-lake-47503.herokuapp.com/
+https://red-zed-28394.herokuapp.com/
 
 ## Questions
 
